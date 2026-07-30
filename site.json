@@ -17,6 +17,12 @@
       "text": "Blog"
     },
     {
+      "link": "https://beta.docs.nodejs.org/",
+      "label": "components.containers.navBar.links.betaDocs",
+      "target": "_blank",
+      "accent": true
+    },
+    {
       "link": "/docs/latest/api/",
       "text": "Docs"
     },
