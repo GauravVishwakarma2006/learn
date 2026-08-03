@@ -17,14 +17,14 @@
       "text": "Blog"
     },
     {
+      "link": "/docs/latest/api/",
+      "text": "Docs"
+    },
+    {
       "link": "https://beta.docs.nodejs.org/",
       "text": "Beta Docs",
       "target": "_blank",
       "accent": true
-    },
-    {
-      "link": "/docs/latest/api/",
-      "text": "Docs"
     },
     {
       "link": "https://github.com/nodejs/node/blob/main/CONTRIBUTING.md",
