@@ -1,8 +1,21 @@
 ---
-authors: flaviocopes, potch, MylesBorins, RomainLanz, virkt25, Trott, onel0p3z, ollelauribostrom, MarkPieszak, fhemberger, LaRuaNa, FrozenPandaz, mcollina, amiller-gh, ahmadawais, saqibameen, dangen-effy, aymen94, benhalverson
+authors: flaviocopes, potch, MylesBorins, RomainLanz, virkt25, Trott, onel0p3z, ollelauribostrom, MarkPieszak, fhemberger, LaRuaNa, FrozenPandaz, mcollina, amiller-gh, ahmadawais, saqibameen, dangen-effy, aymen94, benhalverson, GauravVishwakarma2006 
 ---
 
+
 # Introduction to Node.js
+
+**Why do we need Node.js?**
+Frontend JavaScript runs in the browser.
+
+But what if we want JavaScript to:
+- Create a server?
+- Read files?
+- Connect to a database?
+- Build an API?
+
+Browser JavaScript cannot directly act as your backend server.
+Node.js provides an environment where JavaScript can run outside the browser.
 
 Node.js is an open-source and cross-platform JavaScript runtime environment. It is a popular tool for almost any kind of project!
 
